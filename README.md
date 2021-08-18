@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SAMURAI2992
 - 👀 I’m interested in Business Analysis related projects on BRD,FRD,SRS,Test cases,Test case design,UML diagrams,
 - 🌱 I’m currently on the hunt for a Business Analyst Profile.
-- 💞️ I’m looking to collaborate on Nothing, just here to learn new skills and advanced existing skills.
+- 💞️ I’m looking to collaborate on Nothing, just here to learn new skills and enhance existing skills.
 - 📫 How to reach me prashant.hule04@gmail.com
 
 <!---
